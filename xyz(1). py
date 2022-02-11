@@ -1,7 +1,0 @@
-
-import streamlit as st
-st.header("'simple web app'")
-st.write("'*my app*'")
-value= st.slider('val')
-st.write(value,"division is",value + value)
-                                                                              
